@@ -1,0 +1,12 @@
+body {
+	width: 1020px;
+	margin: auto;
+	padding: auto;
+	background: #f8eedf;
+}
+#header {
+	height:	150px;
+	background: #f8ba5d;
+	background:-webkit-gradient(linear, 0 0, 0 100%, from(#f8ba5d), to(#f89f1a));
+	background:-moz-linear-gradient(top, #f8ba5d, #f89f1a);
+}
